@@ -16,6 +16,11 @@ import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
 import netlifyLogo from './assets/tech_logo/netlify.png';
 import csharpLogo from './assets/tech_logo/csharp.png';
+import angularLogo from './assets/tech_logo/angular.png';
+import dotNetLogo from './assets/tech_logo/dotnet.png';
+import sqlServerLogo from './assets/tech_logo/sqlserver.png';
+
+
 
 // Experience Section Logo's
 import shiwansLogo from './assets/company_logo/shiwans_logo.png';
@@ -49,6 +54,7 @@ export const SkillsInfo = [
       { name: 'React JS', logo: reactjsLogo },
       { name: 'Redux', logo: reduxLogo },
       { name: 'Bootstrap', logo: bootstrapLogo },
+      { name: 'Angular', logo: angularLogo },
     ],
   },
   {
@@ -57,6 +63,12 @@ export const SkillsInfo = [
       { name: 'Node JS', logo: nodejsLogo },
       { name: 'MySQL', logo: mysqlLogo },
       { name: 'MongoDB', logo: mongodbLogo },
+      { name: '.NET', logo: dotNetLogo },
+      {name : 'SqlServer', logo: sqlServerLogo},
+      {name : 'C#', logo: csharpLogo},
+      
+      
+      
       
     ],
   },
@@ -68,6 +80,7 @@ export const SkillsInfo = [
       { name: 'Python', logo: pythonLogo },
       { name: 'C-Sharp', logo: csharpLogo },
       { name: 'JavaScript', logo: javascriptLogo },
+      
      
     ],
   },
@@ -88,8 +101,8 @@ export const SkillsInfo = [
       img: shiwansLogo,
       role: "Junior Software Developer",
       company: "Shiwansh Solutions",
-      date: "October 2025 - Present",
-      desc: "Worked with MongoDB for designing and optimizing database schemas. Implemented reusable UI components to improve development speed and maintainability. Optimized application performance and ensured cross-browser compatibility.  Contributed to deployment and hosting workflows using Netlify and other cloud platforms. Actively collaborated with senior developers to learn and implement industry best practices. Continuously improving skills in MERN stack and exploring modern libraries & tools for full-stack development.",
+      date: "January 2025 - Present",
+      desc: "Worked with .NET, SQL Server, Angular for designing and optimizing database schemas. Implemented reusable UI components to improve development speed and maintainability. Optimized application performance and ensured cross-browser compatibility.  Contributed to deployment and hosting workflows using Netlify and other cloud platforms. Actively collaborated with senior developers to learn and implement industry best practices. Continuously improving skills in MERN stack and exploring modern libraries & tools for full-stack development.",
       skills: [
         "HTML",
         "CSS",
@@ -99,10 +112,14 @@ export const SkillsInfo = [
         "Tailwind CSS",
         "MongoDb",
         "Redux",
-        ". Net",
+        ".Net",
         "C#",
         "SQL",
         "Git",
+        "GitHub",
+        "VS Code",
+        "Netlify",  
+        "Angular",
         
       ],
     },
