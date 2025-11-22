@@ -27,8 +27,9 @@ const About = () => {
               text={[
                 'Software Developer',
                 'Mern Stack Developer',
-                'Frontend Developer',
+                'Full Stack Developer',
                 'Coder',
+                'Tech Enthusiast',
               ]}
               speed={100}
               eraseSpeed={50}
@@ -48,7 +49,7 @@ const About = () => {
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/19YgCnNOU2bjHJSA639DqGeoEcnK8_iB5/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/14Z0sJR6EXaa4ubJIWznPQ_O8M46z8v5D/view?usp=drivesdk"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
@@ -74,7 +75,7 @@ const About = () => {
           >
             <img
               src={profileImage}
-              alt="Tarun Kaushik"
+              alt="Shivam Kumar"
               className="w-full h-full rounded-full object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]"
             />
           </Tilt>

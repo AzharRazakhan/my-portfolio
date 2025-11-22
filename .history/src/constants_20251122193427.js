@@ -34,8 +34,8 @@ import csprepLogo from './assets/work_logo/cs_prep.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
 import npmLogo from './assets/work_logo/npm.png';
 import ssLogo from './assets/work_logo/ss.png';
+import poratalLogo from './assets/work_logo/poratal.png';
 import sspLogo from './assets/work_logo/ssp.png';
-import travelLogo from './assets/work_logo/travel.png';
 
 export const SkillsInfo = [
   {
@@ -201,17 +201,17 @@ export const SkillsInfo = [
       description:
           "Developed the official website for Shiwansh Solutions with a fully responsive UI, modern layout, and dynamic content sections. Implemented optimized performance, clean navigation, mobile-friendly design, and multiple custom features to enhance user experience and brand presence.",
        image: sspLogo,
-      tags: [" React.js", "Node.js", "Express.js", "MongoDB", "API","JavaScript (ES6+)","CSS3","HTML5"],
+      tags: [" React.js", " .NET Core", " Entity Framework", "Dapper", "API","SQL Server"],
       github: "https://github.com/shivam-prajapati-1/Aerospace-Employee-Payroll-System",
       webapp: "https://shiwansh.com/",
     },
     {
       id: 2,
-      title: " Tours and Travel ",
+      title: " Tou",
       description:
-  "• Designed and developed the official Shiwansh Solutions website with a modern UI, fully responsive layout, and dynamic service sections. • Implemented smooth navigation, optimized performance, and multiple custom features to enhance user experience, branding, and client engagement.",
-      image: travelLogo,
-      tags: [" React.js", " .NET Core", " Entity Framework", "Dapper", "API","SQL Server"],
+        " They highlight career opportunities with professional development, building a knowledge-based economy, and working with skilled staff. They support education sectors from early education, schools, to higher ed with inclusive policies and services.",
+      image: poratalLogo,
+      tags: [" React.js", "Node.js", "Express.js", "MongoDB", "API","JavaScript (ES6+)","CSS3","HTML5"],
       github: "https://github.com/shivam-prajapati-1/ADEK-Education-Portal",
       webapp: "https://www.adek.gov.ae/",
     },

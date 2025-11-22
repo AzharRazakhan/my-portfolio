@@ -35,7 +35,7 @@ import taskremLogo from './assets/work_logo/task_rem.png';
 import npmLogo from './assets/work_logo/npm.png';
 import ssLogo from './assets/work_logo/ss.png';
 import websiteLogo from './assets/work_logo/website.png';
-import employeeLogo from './assets/work_logo/employee.png';
+import poratalLogo from './assets/work_logo/poratal.png';
 
 
 export const SkillsInfo = [
@@ -101,7 +101,6 @@ export const SkillsInfo = [
         "MongoDb",
         "Redux",
         ". Net",
-        "Angular",
         "C#",
         "SQL",
         "Git",
@@ -201,17 +200,17 @@ export const SkillsInfo = [
       title: " Education Porttal",
       description:
         " They highlight career opportunities with professional development, building a knowledge-based economy, and working with skilled staff. They support education sectors from early education, schools, to higher ed with inclusive policies and services.",
-      image: websiteLogo,
+      image: poratalLogo,
       tags: [" React.js", "Node.js", "Express.js", "MongoDB", "API","JavaScript (ES6+)","CSS3","HTML5"],
       github: "https://github.com/shivam-prajapati-1/ADEK-Education-Portal",
       webapp: "https://www.adek.gov.ae/",
     },
     {
       id: 2,
-      title: " Aerospace Employee Payroll System",
+      title: "Shiwansh.com",
       description:
         " Developed a secure and scalable payroll management system for  the aerospace domain using .NET Core, React.js, Entity Framework,  Dapper, and SQL Server.",
-      image: employeeLogo,
+      image: websiteLogo,
       tags: [" React.js", " .NET Core", " Entity Framework", "Dapper", "API","SQL Server"],
       github: "https://github.com/shivam-prajapati-1/Aerospace-Employee-Payroll-System",
       // webapp: "https://www.adek.gov.ae/",

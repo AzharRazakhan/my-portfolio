@@ -211,7 +211,7 @@ export const SkillsInfo = [
       description:
   "• Designed and developed the official Shiwansh Solutions website with a modern UI, fully responsive layout, and dynamic service sections. • Implemented smooth navigation, optimized performance, and multiple custom features to enhance user experience, branding, and client engagement.",
       image: travelLogo,
-      tags: [" React.js", " .NET Core", " Entity Framework", "Dapper", "API","SQL Server"],
+      tags: [" React.js", "Node.js", "Express.js", "MongoDB", "API","JavaScript (ES6+)","CSS3","HTML5"],
       github: "https://github.com/shivam-prajapati-1/ADEK-Education-Portal",
       webapp: "https://www.adek.gov.ae/",
     },
