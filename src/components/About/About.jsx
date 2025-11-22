@@ -28,9 +28,9 @@ const About = () => {
                 'Software Developer',
                 'Mern Stack Developer',
                 'Full Stack Developer',
-                'Coder',
                 'Tech Enthusiast',
                 'Problem Solver',
+                
               ]}
               speed={100}
               eraseSpeed={50}
