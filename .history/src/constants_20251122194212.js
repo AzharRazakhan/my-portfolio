@@ -201,7 +201,7 @@ export const SkillsInfo = [
       description:
           "Developed the official website for Shiwansh Solutions with a fully responsive UI, modern layout, and dynamic content sections. Implemented optimized performance, clean navigation, mobile-friendly design, and multiple custom features to enhance user experience and brand presence.",
        image: sspLogo,
-      tags: [" React.js", "Node.js", "Express.js", "MongoDB", "API","JavaScript (ES6+)","CSS3","HTML5"],
+      tags: [" React.js", " .NET Core", " Entity Framework", "Dapper", "API","SQL Server"],
       github: "https://github.com/shivam-prajapati-1/Aerospace-Employee-Payroll-System",
       webapp: "https://shiwansh.com/",
     },
