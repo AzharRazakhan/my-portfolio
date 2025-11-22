@@ -205,16 +205,16 @@ export const SkillsInfo = [
       github: "https://github.com/shivam-prajapati-1/Aerospace-Employee-Payroll-System",
       webapp: "https://shiwansh.com/",
     },
-    {
-      id: 2,
-      title: " Tours and Travel ",
-      description:
-  "• Designed and developed the official Shiwansh Solutions website with a modern UI, fully responsive layout, and dynamic service sections. • Implemented smooth navigation, optimized performance, and multiple custom features to enhance user experience, branding, and client engagement.",
-      image: travelLogo,
-      tags: [" React.js", " .NET Core", " Entity Framework", "Dapper", "API","SQL Server"],
-      github: "https://github.com/shivam-prajapati-1/ADEK-Education-Portal",
-      webapp: "https://www.adek.gov.ae/",
-    },
+  //   {
+  //     id: 2,
+  //     title: " Tours and Travel ",
+  //     description:
+  // "• Designed and developed the official Shiwansh Solutions website with a modern UI, fully responsive layout, and dynamic service sections. • Implemented smooth navigation, optimized performance, and multiple custom features to enhance user experience, branding, and client engagement.",
+  //     image: travelLogo,
+  //     tags: [" React.js", " .NET Core", " Entity Framework", "Dapper", "API","SQL Server"],
+  //     github: "https://github.com/shivam-prajapati-1/ADEK-Education-Portal",
+  //     webapp: "https://www.adek.gov.ae/",
+  //   },
     {
       id: 3,
       title: "Real-Estate-website",
