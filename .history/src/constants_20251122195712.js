@@ -33,9 +33,8 @@ import vpsLogo from './assets/education_logo/vps_logo.png';
 import csprepLogo from './assets/work_logo/cs_prep.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
 import npmLogo from './assets/work_logo/npm.png';
+import ssLogo from './assets/work_logo/ss.png';
 import travelLogo from './assets/work_logo/travel.png';
-import sspLogo from './assets/work_logo/ssp.png';
-import emsLogo from './assets/work_logo/ems.png';
 
 export const SkillsInfo = [
   {

@@ -33,9 +33,8 @@ import vpsLogo from './assets/education_logo/vps_logo.png';
 import csprepLogo from './assets/work_logo/cs_prep.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
 import npmLogo from './assets/work_logo/npm.png';
+import ssLogo from './assets/work_logo/ss.png';
 import travelLogo from './assets/work_logo/travel.png';
-import sspLogo from './assets/work_logo/ssp.png';
-import emsLogo from './assets/work_logo/ems.png';
 
 export const SkillsInfo = [
   {
@@ -189,7 +188,7 @@ export const SkillsInfo = [
       title: " Employee Management System",
       description:
       " Created a full-stack web service to manage employees, job candidates, and interview processes with role-based user access and secured user authentication.  Working with React.js, Node.js, Express.js, and MongoDB, state management utilizing Zustand, and authentication using JWT. The integrated  module contains a dashboard, candidate tracking,  follow-ups, and scheduling of interviews.",
-      image: emsLogo,
+      image: emsLogoLogo,
       tags: [" React.js", "Node.js", "Express.js", "MongoDB", "API","JavaScript (ES6+)","CSS3","HTML5"],
       github: "https://github.com/shivam-prajapati-1/Employee-Management-System",
       // webapp: "https://shiwansh.com/",
@@ -200,7 +199,7 @@ export const SkillsInfo = [
       title: "Shiwansh.com",
       description:
           "Developed the official website for Shiwansh Solutions with a fully responsive UI, modern layout, and dynamic content sections. Implemented optimized performance, clean navigation, mobile-friendly design, and multiple custom features to enhance user experience and brand presence.",
-       image: sspLogo,
+       image: emsLogo,
       tags: [" React.js", "Node.js", "Express.js", "MongoDB", "API","JavaScript (ES6+)","CSS3","HTML5"],
       github: "https://github.com/shivam-prajapati-1/Aerospace-Employee-Payroll-System",
       webapp: "https://shiwansh.com/",
