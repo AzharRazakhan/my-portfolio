@@ -58,7 +58,7 @@ export const SkillsInfo = [
       { name: 'MongoDB', logo: mongodbLogo },
       { name: 'Express JS', logo: ExpressLogo },
       { name: 'csharp', logo: csharpLogo },
-      { name: 'Net', logo: Net },
+      { name: '.Net', logo: Net },
     ],
   },
   {
