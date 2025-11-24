@@ -14,7 +14,8 @@ import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
 import netlifyLogo from './assets/tech_logo/netlify.png';
 import csharpLogo from './assets/tech_logo/csharp.png';
-import expressLogo from './assets/tech_logo/express.png';
+import ExpressLogo from './assets/tech_logo/express.png';
+
 import angularLogo from './assets/tech_logo/angular.png';
 import Net from './assets/tech_logo/net.png';
 
@@ -56,7 +57,7 @@ export const SkillsInfo = [
       { name: 'Node JS', logo: nodejsLogo },
       { name: 'MySQL', logo: mysqlLogo },
       { name: 'MongoDB', logo: mongodbLogo },
-      { name: 'Express JS', logo: expressLogo },
+      { name: 'Express JS', logo: ExpressLogo },
       { name: 'csharp', logo: csharpLogo },
       { name: 'Net', logo: Net },
     ],
