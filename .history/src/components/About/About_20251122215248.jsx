@@ -28,7 +28,6 @@ const About = () => {
                 'Software Developer',
                 'Mern Stack Developer',
                 'Full Stack Developer',
-                'coder',
                 'Tech Enthusiast',
                 'Problem Solver',
                 
