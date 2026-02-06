@@ -18,7 +18,7 @@ const About = () => {
           </h1>
           {/* Name */}
           <h2 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-4 leading-tight">
-            Shivam Kumar
+            Azhar Khan
           </h2>
           {/* Skills Heading with Typing Effect */}
           <h3 className="text-xl sm:text-2xl md:text-3xl font-semibold mb-4 text-[#8245ec] leading-tight">
@@ -31,7 +31,7 @@ const About = () => {
                 'coder',
                 'Tech Enthusiast',
                 'Problem Solver',
-                
+
               ]}
               speed={100}
               eraseSpeed={50}
@@ -51,7 +51,7 @@ const About = () => {
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1thQP60WbBlpAsHceYt2u4sE6nhdVfepy/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/1NodC6rbFcKQWEuUlDZJrQMn1aIFORPvI/view"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
@@ -62,7 +62,7 @@ const About = () => {
           >
             DOWNLOAD CV
           </a>
-          
+
         </div>
         {/* Right Side */}
         <div className="md:w-1/2 flex justify-center md:justify-end">
@@ -77,7 +77,7 @@ const About = () => {
           >
             <img
               src={profileImage}
-              alt="Shivam Kumar"
+              alt="Azhar Khan"
               className="w-full h-full rounded-full object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]"
             />
           </Tilt>

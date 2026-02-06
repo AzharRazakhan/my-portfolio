@@ -46,9 +46,9 @@ const Navbar = () => {
         {/* Logo */}
         <div className="text-lg font-semibold cursor-pointer">
           <span className="text-[#8245ec]">&lt;</span>
-          <span className="text-white">Shivam</span>
+          <span className="text-white">Azhar</span>
           <span className="text-[#8245ec]">/</span>
-          <span className="text-white">Kumar</span>
+          <span className="text-white">Khan</span>
           <span className="text-[#8245ec]">&gt;</span>
         </div>
 
@@ -71,7 +71,7 @@ const Navbar = () => {
         {/* Social Icons */}
         <div className="hidden md:flex space-x-4">
           <a
-            href="https://github.com/shivam-prajapati-1"
+            href="https://github.com/AzharRazakhan"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#8245ec]"
@@ -79,7 +79,7 @@ const Navbar = () => {
             <FaGithub size={24} />
           </a>
           <a
-            href="https://www.linkedin.com/in/shivam-kumar-ss"
+            href="https://www.linkedin.com/in/azhar-khan-aa13aa187/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#8245ec]"
@@ -87,7 +87,7 @@ const Navbar = () => {
             <FaLinkedin size={24} />
           </a>
            <a
-            href="http://Wa.me/+917209644236"
+            href="http://Wa.me/+919826108734"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#8245ec]"
@@ -130,7 +130,7 @@ const Navbar = () => {
             ))}
             <div className="flex space-x-4">
               <a
-                href="https://github.com/shivam-prajapati-1"
+                href="https://github.com/AzharRazakhan"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"
@@ -138,7 +138,7 @@ const Navbar = () => {
                 <FaGithub size={24} />
               </a>
               <a
-                href="https://www.linkedin.com/in/shivam-kumar-ss"
+                href="https://www.linkedin.com/in/azhar-khan-aa13aa187/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"
@@ -146,7 +146,7 @@ const Navbar = () => {
                 <FaLinkedin size={24} />
               </a>
                <a
-                href="http://Wa.me/+917209644236"
+                href="http://Wa.me/+919826108734"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"

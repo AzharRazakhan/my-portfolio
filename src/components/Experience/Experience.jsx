@@ -5,7 +5,7 @@ const Experience = () => {
   return (
     <section
       id="experience"
-      className="py-24 pb-24 px-[12vw] md:px-[7vw] lg:px-[16vw] font-sans bg-skills-gradient clip-path-custom-2"
+      className="py-2 pb-24 px-[12vw] md:px-[7vw] lg:px-[16vw] font-sans bg-skills-gradient clip-path-custom-2"
     >
       {/* Section Title */}
       <div className="text-center mb-16">
@@ -31,13 +31,13 @@ const Experience = () => {
             }`}
           >
             {/* Timeline Circle */}
-            <div className="absolute sm:left-1/2 left-0 transform -translate-x-1/2 bg-gray-400 border-4 border-[#8245ec] w-12 h-12 sm:w-16 sm:h-16 rounded-full flex justify-center items-center z-10">
+{/*             <div className="absolute sm:left-1/2 left-0 transform -translate-x-1/2 bg-gray-400 border-4 border-[#8245ec] w-12 h-12 sm:w-16 sm:h-16 rounded-full flex justify-center items-center z-10">
               <img
                 src={experience.img}
-                alt={experience.company}
+                alt={experience.company} 
                 className="w-full h-full object-cover rounded-full"
               />
-            </div>
+            </div> */}
 
             {/* Content Section */}
             <div
@@ -48,13 +48,13 @@ const Experience = () => {
               {/* Flex container for image and text */}
               <div className="flex items-center space-x-6">
                 {/* Company Logo/Image */}
-                <div className="w-16 h-16 bg-white rounded-md overflow-hidden">
+                {/* <div className="w-16 h-16 bg-white rounded-md overflow-hidden">
                   <img
                     src={experience.img}
                     alt={experience.company}
                     className="w-full h-full object-cover"
                   />
-                </div>
+                </div> */}
 
                 {/* Role, Company Name, and Date */}
                 <div className="flex flex-col justify-between">

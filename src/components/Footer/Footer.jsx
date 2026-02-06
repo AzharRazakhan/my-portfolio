@@ -14,7 +14,7 @@ const Footer = () => {
     <footer className="text-white py-8 px-[12vw] md:px-[7vw] lg:px-[20vw]">
       <div className="container mx-auto text-center">
         {/* Name / Logo */}
-        <h2 className="text-xl font-semibold text-purple-500">Shivam Kumar</h2>
+        <h2 className="text-xl font-semibold text-purple-500">Azhar Khan</h2>
 
         {/* Navigation Links - Responsive */}
         <nav className="flex flex-wrap justify-center space-x-4 sm:space-x-6 mt-4">
@@ -38,11 +38,11 @@ const Footer = () => {
         {/* Social Media Icons - Responsive */}
         <div className="flex flex-wrap justify-center space-x-4 mt-6">
           {[
-            { icon: <FaFacebook />, link: "https://www.facebook.com/share/17ZHKiMa7P/" },
-            { icon: <FaWhatsapp />, link: "http://Wa.me/+917209644236" },
-            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/shivam-kumar-ss" },
-            { icon: <FaInstagram />, link: "https://www.instagram.com/official_shivam__pandit?igsh=MTlnbnQ4b2Fvc2I2YQ==" },
-            { icon: <FaYoutube />, link: "https://www.youtube.com/@shivamprajapati5031" },
+            // { icon: <FaFacebook />, link: "https://www.facebook.com/share/17ZHKiMa7P/" },
+            { icon: <FaWhatsapp />, link: "http://Wa.me/+919826108734" },
+            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/azhar-khan-aa13aa187/" },
+          /*   { icon: <FaInstagram />, link: "https://www.instagram.com/official_shivam__pandit?igsh=MTlnbnQ4b2Fvc2I2YQ==" },
+            { icon: <FaYoutube />, link: "https://www.youtube.com/@shivamprajapati5031" }, */
             
           ].map((item, index) => (
             <a
@@ -59,7 +59,7 @@ const Footer = () => {
 
         {/* Copyright Text */}
         <p className="text-sm text-gray-400 mt-6">
-          © 2025 Shivam Kumar. All rights reserved.
+          © 2025 Azhar Khan. All rights reserved.
         </p>
       </div>
     </footer>

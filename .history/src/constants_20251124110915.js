@@ -82,34 +82,6 @@ export const SkillsInfo = [
 ];
 
   export const experiences = [
-    {
-      id: 0,
-      img: shiwansLogo,
-      role: "Software Developer",
-      company: "Shiwansh Solutions",
-      date: "January 2025 - Present",
-      desc: "Worked with MongoDB for designing and optimizing database schemas. Implemented reusable UI components to improve development speed and maintainability. Optimized application performance and ensured cross-browser compatibility.  Contributed to deployment and hosting workflows using Netlify and other cloud platforms. Actively collaborated with senior developers to learn and implement industry best practices. Continuously improving skills in MERN stack and exploring modern libraries & tools for full-stack development.",
-      skills: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React JS",
-        "Node JS",
-        "Express JS",
-        "Tailwind CSS",
-        "MongoDb",
-        "Redux",
-        ". Net",
-        "C#",
-        "SQL",
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Netlify",
-
-        
-      ],
-    },
     // {
     //   id: 1,
     //   img: agcLogo,
